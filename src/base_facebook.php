@@ -167,7 +167,7 @@ abstract class BaseFacebook
     'api_read'    => 'https://api-read.facebook.com/',
     'graph'       => 'https://graph.facebook.com/',
     'graph_video' => 'https://graph-video.facebook.com/',
-    'www'         => 'https://www.facebook.com/',
+    'www'         => 'https://facebook.com/',
   );
 
   /**
